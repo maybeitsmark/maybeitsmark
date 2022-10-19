@@ -1,6 +1,7 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/26xBP0d9pciEWyteo/giphy.gif" alt="animated" />
+ <br />
 art by @smeccea
 </p>
 
