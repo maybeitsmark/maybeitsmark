@@ -1,5 +1,8 @@
+<p align="left">
+<img src="ball_glitch.gif" alt="animated" />
+</p>
 
-<p align="center">
+<p align="right">
 <img src="ball_glitch.gif" alt="animated" />
 </p>
 
