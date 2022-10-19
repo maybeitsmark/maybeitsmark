@@ -1,7 +1,7 @@
 <table border="0">
  <tr>
     <td>Howdy</td>
-    <img src="ball_glitch.gif" alt="animated" />
+    <td<img src="ball_glitch.gif" alt="animated" /></td>
  </tr>
 </table>
 
