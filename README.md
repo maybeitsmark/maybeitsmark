@@ -1,6 +1,6 @@
 
 <p align="center">
-![Alt Text](https://media.giphy.com/media/26xBP0d9pciEWyteo/giphy.gif)
+<img src="https://media.giphy.com/media/26xBP0d9pciEWyteo/giphy.gif" alt="animated" />
 art by @smeccea
 </p>
 
