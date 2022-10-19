@@ -1,7 +1,9 @@
-<p align="center">
-Howdy...
-<img src="ball_glitch.gif" alt="animated" />
-</p>
+<table border="0">
+ <tr>
+    <td>Howdy</td>
+    <img src="ball_glitch.gif" alt="animated" />
+ </tr>
+</table>
 
 <!--
 **marklasagne/marklasagne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
