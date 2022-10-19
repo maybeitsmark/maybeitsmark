@@ -1,9 +1,8 @@
-<table border="0" style="border-collapse: collapse; border: none;">
- <tr>
-    <td border="0">Howdy</td>
-    <td><img src="ball_glitch.gif" alt="animated" /></td>
- </tr>
-</table>
+<p align="center">
+<img src="ball_glitch.gif" alt="animated" />
+</br>
+What are you scared of? 
+</p>
 
 <!--
 **marklasagne/marklasagne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
