@@ -1,7 +1,7 @@
-<table border="0">
+<table border="0" style="border-collapse: collapse; border: none;">
  <tr>
-    <td>Howdy</td>
-    <td<img src="ball_glitch.gif" alt="animated" /></td>
+    <td border="0">Howdy</td>
+    <td><img src="ball_glitch.gif" alt="animated" /></td>
  </tr>
 </table>
 
