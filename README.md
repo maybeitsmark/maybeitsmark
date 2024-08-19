@@ -1,7 +1,5 @@
 <p align="center">
 <img src="ball_glitch.gif" alt="animated" />
-</br>
-What keeps you from sleeping? 
 </p>
 
 <!--
