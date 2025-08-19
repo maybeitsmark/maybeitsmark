@@ -1,6 +1,6 @@
 <table border="0">
-  <tr>
-    <td>
+  <tr  border="0">
+    <td  border="0">
       <p>
         who is mark? <br>
         ¯\_(ツ)_/¯  <br>
