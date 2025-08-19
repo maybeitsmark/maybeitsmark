@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td>
       <p>
@@ -16,7 +16,7 @@
       </p>
     </td>
     <td>
-      <img src="ball_glitch.gif" alt="animated" width="250"/>
+      <img src="ball_glitch.gif" alt="animated" width="300"/>
     </td>
   </tr>
 </table>
