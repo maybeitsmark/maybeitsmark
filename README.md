@@ -1,6 +1,6 @@
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td style="border: none; padding-right: 20px; vertical-align: top;">
+    <td>
       <p>
         who is mark? <br>
         ¯\_(ツ)_/¯  <br>
