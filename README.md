@@ -16,7 +16,7 @@
       </p>
     </td>
     <td>
-      <img src="ball_glitch.gif" alt="animated" width="200"/>
+      <img src="ball_glitch.gif" alt="animated" width="250"/>
     </td>
   </tr>
 </table>
